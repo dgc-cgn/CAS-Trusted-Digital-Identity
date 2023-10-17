@@ -1,12 +1,12 @@
-# Conformity Assessment Scheme: Trusted Digital Identity
+# Scheme Name: Trusted Digital Identity: Public Sector and Regulated Programs
 
-
+[Back to Asssessment Schemes](../profiles-overview.md)|[Audit Plan](./digid-pubsec-audit-plan.md)
 
 ## Certificate Sub-Scope: Trusted Digital Identity
 
 Trusted Digital Identity systems are emerging as critical infrastructure and now becoming the crucial underpinning of government and private sector digital services. To address the market need and to ensure confidence in these systems.
 
-A **trusted digital identity** (TDI)is an electronic representation of a person, used exclusively by that same person to receive valued services and to carry out transactions with trust and confidence. A TDI may be accepted in accordance with:
+A **trusted digital identity** (TDI)is an electronic representation of a person, used exclusively by that same person to [label](https://ciostrategiccouncil-my.sharepoint.com/personal/tim_bouma_ciostrategycouncil_com/_layouts/15/onedrive.aspx?login_hint%3Dtim.bouma%40ciostrategycouncil.com)receive valued services and to carry out transactions with trust and confidence. A TDI may be accepted in accordance with:
 
 * relevant legislation/regulations
 * applicable standards,
@@ -14,8 +14,8 @@ A **trusted digital identity** (TDI)is an electronic representation of a person,
 * trust frameworks,
 * mutual recognition agreements
 
-* This scheme sub-scope for **Digital Trust Conformity Assessment Program**
-* This scheme is intended to applied in conjunction with the national standard [**CAN/CIOSC 103-1: Digital Trust and Identity**](./) 
+* This scheme sub-scope for **Trusted Digital Identities for use by Public Sector and Regulated Programs.**
+* This scheme intended to applied in conjunction with the national standard [**CAN/CIOSC 103-1: Digital Trust and Identity**](./standard/103-1-2023/) (this link is to a github folder) .
 * This sub-scope is based on lessons-learned and knowledge gained through the [**Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4**](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4). Material is being used under the [Open Government License](https://open.canada.ca/en/open-government-licence-canada)
 * This sub-scope embraces the principles intentions outlined in the [G20 2022 Ministerial Declaration Annex 3: Report Identifying Key Enablers on Digital Identity](./docs/G20_Digital_Economy_Ministers_Meeting_2022__1669033867.pdf)
   * Effective design of digital identity
