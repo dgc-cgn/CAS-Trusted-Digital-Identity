@@ -1,27 +1,28 @@
-# Scheme Name: Trusted Digital Identity
+# Scheme Name: Trusted Digital Identity: Certified B Corporation
 
-[Back to Asssessment Schemes](../profiles-overview.md)|[Audit Plan](./digid-pubsec-audit-plan.md)
+## Overview
+
+This scheme applies to any Certified B Corporation wishing to become certified as an issuer of trusted digital identies primarily for use within their own business processes.
 
 ## Certificate Sub-Scope: Trusted Digital Identity
 
-Trusted Digital Identity systems are emerging as critical infrastructure and now becoming the crucial underpinning of government and private sector digital services. To address the market need and to ensure confidence in these systems.
-
-A **trusted digital identity** (TDI)is an electronic representation of a person, used exclusively by that same person to [label](https://ciostrategiccouncil-my.sharepoint.com/personal/tim_bouma_ciostrategycouncil_com/_layouts/15/onedrive.aspx?login_hint%3Dtim.bouma%40ciostrategycouncil.com)receive valued services and to carry out transactions with trust and confidence. A TDI may be accepted in accordance with:
-
-* relevant legislation/regulations
-* applicable standards,
-* conformity assessment schemes (this scheme),
-* trust frameworks,
-* mutual recognition agreements
-
-* This scheme is a sub-scope under [Digital Trust Conformity Asssment Program](https://github.com/dgc-cgn/CAS-Digital-Trust)
 * This scheme intended to applied in conjunction with the national standard [**CAN/CIOSC 103-1: Digital Trust and Identity**](./standard/103-1-2023/) (this link is to a github folder) .
-* This sub-scope applies knowledge gained through the [**Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4**](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4). Material is being used under the [Open Government License](https://open.canada.ca/en/open-government-licence-canada)
-* This sub-scope embraces the principles intentions outlined in the [G20 2022 Ministerial Declaration Annex 3: Report Identifying Key Enablers on Digital Identity](./docs/G20_Digital_Economy_Ministers_Meeting_2022__1669033867.pdf)
-  * Effective design of digital identity
-  * Collaboration and coordination across the digital identity ecosystem
-  * Sustainable investments in digital identity
-  * Implementation: A fit for purpose regulatory framework for digital identity
+* This sub-scope is based on lessons-learned and knowledge gained through the [**Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4**](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4). Material is being used under the [Open Government License](https://open.canada.ca/en/open-government-licence-canada)
+* This sub-scope embraces the principles intentions 
+
+* A **trusted digital identity** (TDI)is an electronic representation of a person, used exclusively by that same person to receive valued services and to carry out transactions with trust and confidence. A TDI may be accepted in accordance with:
+
+  * relevant legislation/regulations
+  * applicable standards,
+  * conformity assessment schemes (this scheme),
+  * trust frameworks,
+  * mutual recognition agreements
+
+## Certification Focus / Specialization: Certified B Corporation
+
+A [Certified B Corporation](https://www.bcorporation.net/en-us/certification/) (B Corp) is a designation for for-profit companies that meet rigorous social and environmental performance, accountability, and transparency standards.
+
+A B Corp aligned with its commitment to transparency, accountability, and ethical business practices, is expected to utilize a trusted digital identity to foster secure and respectful interactions online. By leveraging a verified digital identity system, the B Corp ensures that its online transactions and communications are both genuine and protect stakeholders' information. This should align with the B Corp's broader principles of safeguarding the interests of the community, employees, and environment, while also emphasizing security, privacy, and trust in the digital realm. Such an approach not only promotes ethical digital practices but also enhances stakeholder confidence in the company's online activities.
 
 ## Assessment Scheme Overview
 
@@ -42,7 +43,7 @@ This assessment scheme may used for the following certificate grant:
 |Main Scope|Digital Trust|
 |Topic|Digital Identity|
 |Sub-Scope|Trusted Digital Identity|
-|Focus/Specializations|Public Sector and Regulated Programs, Not-for-Profits, Certified B Corporations|
+|Focus/Specialization|Certified B Corp|
 |Assessment Class Level|Determined by Engagement|
 |Caveats|Persons, Organizations, Relationships|
 
@@ -65,14 +66,8 @@ This assessment scheme may be used to support the following activities:
 
 * Readiness Assessment
 * Program Design
-*
 
 ### Specialization and Focus
-
-This scheme is intended to be applied for the following:
-
-* a **Public Sector Programs** are any public programs or services that are directly provided by a federal, provincial, territorial or municipal government. The services may include, but are not limited to: government sign-in services, online benefits delivery, or licensing and permits. Examples of trusted digital identity services used in this context are the [BC Services Card](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-services-card) and [MyAlberta DigitalID](https://account.alberta.ca/) programs.
-* a **Regulated Progams** are any private sector or not-for-profit programs or services using a trusted digital identity that is subject to regulatory requirements such as **Know Your Client (KYC)**, or **Anti-Money Laundering (AML)**. These services include the broader public sector, not-for-profit organizations, and for-profit organizations subject to regulatory requiremens. Examples include, but are not limited to: educational institutions, open banking, insurance, health care, hospitals, or any commercially-available service. Examples of trusted digital services used in this context are the [Canada Post IdentityComplete](https://www.canadapost-postescanada.ca/cpc/en/business/postal-services/digital-proof-identity.page) program.
 
 * The sub-scope of the conformity assessment scheme and its application may be further **restricted** to assess a specialized service or program in relation to assessing a the provision of attributes related **trusted digital identity** only,or
 
@@ -96,7 +91,7 @@ The assessment scheme may be limited or restricted in scope to one or all the fo
 
 **Stakeholders** include, but are not limited to
 
-* Any public or private sector entity wishing to become certified as an issuer of trusted digital identies for use by public services.
+* Any Certified B Corporation wishing to become certified as an issuer of trusted digital identies primarily for use within their own business processes.
 * Business owners and program managers – to enable identity solutions in order to achieve business objectives or program outcomes.
 * Regulatory and oversight bodies – to understand the implications on their role in the digital ecosystem; and
 * Digital Identity technology and service providers – to understand where they fit in the digital ecosystem and to help define requirements for their products and services.
@@ -107,10 +102,6 @@ The assessment scheme may be limited or restricted in scope to one or all the fo
 * **Programs or business units** who are accountable for issuing trusted digital identities for persons that are intended for use by public sector programs.
 * **Independent Auditors** wishing to provide conformity assessment or related services.
 
-## Health Care
-
-Under development
-This assessement scheme may be used in conjunction with CAN/CIOSC 103-2:2021 Digital Trust and Identity - Part 2
 
 ## Background
 
@@ -136,11 +127,6 @@ global digital economies. This standard will form the policy foundation of a new
 
 ## References
 
-### Enabling Legislation, Regulations and Policies
-
-* [CA Treasury Board of Canada Directive on Identity Management](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=16577)
-* [EU Proposed Amendments No 910/2014 as regards establishing a framework for a European Digital Identity](https://www.europarl.europa.eu/doceo/document/ITRE-AM-734285_EN.html)
-* [OECD Recommendation on the Governance of Digital Identity](https://www.oecd.org/digital/digital-government/oecd-recommendation-on-the-governance-of-digital-identity.htm)
 
 ### Applicable International and National Standards
 
