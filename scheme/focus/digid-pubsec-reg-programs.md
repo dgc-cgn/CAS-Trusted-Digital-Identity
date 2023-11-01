@@ -1,4 +1,4 @@
-# Scheme Name: Trusted Digital Identity
+# Scheme Focus: Trusted Digital Identity
 
 [Back to Asssessment Schemes](../profiles-overview.md)|[Audit Plan](./digid-pubsec-audit-plan.md)
 

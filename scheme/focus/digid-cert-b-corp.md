@@ -1,4 +1,4 @@
-# Scheme Name: Trusted Digital Identity: Certified B Corporation
+# Scheme Focus: Trusted Digital Identity: Certified B Corporation
 
 ## Overview
 
