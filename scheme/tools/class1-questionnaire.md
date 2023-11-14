@@ -1,4 +1,4 @@
-# Digital Identity Systems and Services Assessment Questionnaire
+# Digital Trust and Identity - Part 1 Assessment Questionnaire
 
 - This questionnaire is intended for self-assessment in conjunction with [Class 1: Attestation Method](https://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/scheme/profiles/assessment-class-level.md)
 
