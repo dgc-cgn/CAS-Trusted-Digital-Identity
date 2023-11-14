@@ -53,6 +53,10 @@ This assessment scheme may used for the following certificate grant:
 |---|---|---|
 |CAN/CIOSC 103-1:20XX|Digital Trust and Identity: Part 1 Fundamentals|Official Version|
 
+### Assessment Tool
+
+A questionnaire for use in self-assessment can be found [here](../tools/class1-questionnaire.md)
+
 ### Accreditation
 
 This assessment scheme may be used to grant certificates by conformity assesment bodies accredited in accordance with the following standards:
