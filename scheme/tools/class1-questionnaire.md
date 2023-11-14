@@ -2,7 +2,7 @@
 
 - This questionnaire is intended for self-assessment in conjunction with [Class 1: Attestation Method](https://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/scheme/profiles/assessment-class-level.md)
 
-## Trust Framework and Identity Management
+## Self-Assessment Questionnaire
 
 1. **Trust Framework Selection**
 
